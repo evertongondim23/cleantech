@@ -1,0 +1,23 @@
+# Dependências
+node_modules/
+.pnpm-store/
+.npm/
+
+# Builds
+dist/
+build/
+.vite/
+
+# Sistema/IDE
+.DS_Store
+.env
+.env.*
+.idea/
+.vscode/
+*.log
+
+# Testes
+coverage/
+
+# Outros
+*.local
